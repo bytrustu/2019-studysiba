@@ -186,20 +186,6 @@ html, body {
 
 
 
-
-
-
-
-
-
-
-
-
-
-</style>
-
-
-
 <div class="studygroupwarp">
 
 	<div class="position-ab basic-location1">
