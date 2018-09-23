@@ -1,5 +1,5 @@
 # Study SIBA
-Personal project : Related website for online study groups
+Personal project : Related website for online study groups<
 Image copyright is on the brand "Shiro and Maro(http://shiroandmaro.com/)"
 
 portfolio(pdf) : https://drive.google.com/open?id=1tX-dyw1HCZXdI9KllHwXM6IUt83m2_Eu
