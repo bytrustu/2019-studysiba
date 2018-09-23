@@ -1,0 +1,221 @@
+@CHARSET "UTF-8";
+
+* {
+		margin: 0;
+		padding: 0;
+}
+
+button {
+		margin: 20px 0 0 42px;
+		width: 362px;
+		height: 56px;
+}
+
+.clear {
+		clear: left;
+}
+
+input::placeholder {
+		margin-left: 25px;
+		font-size: 13px;
+}
+
+body {
+		background-color: #e4e4ec;
+}
+
+#login_warp {
+		position: relative;
+		width: 100%;
+		height: 800px;
+		margin-top: 100px;
+}
+
+#login_content {
+		width: 450px;
+		height: 640px;
+		border: 1px solid #dddddd;
+		margin-left: 37%;
+		background-color: #efeff4;
+		box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.2);
+}
+
+#login_logo {
+		margin: 30px 0 0 30%;
+}
+
+#login_input {
+		margin-top: 30px;
+}
+
+#login_input>input {
+		width: 320px;
+		border: 1px solid #d5d9e2;
+		margin: 10px 0 0 42px;
+		padding: 20px;
+}
+
+#login_input>input::SELECTION {
+		border: 1px solid #33457;
+}
+
+#join_input {
+		margin-top: 30px;
+}
+
+#join_input>input {
+		width: 360px;
+		height: 57px;
+		border: 1px solid #d5d9e2;
+		margin: 10px 0 0 42px;
+		padding: 20px;
+}
+
+#join_input>input::SELECTION {
+		border: 1px solid #33457;
+}
+
+#button_login {
+		background-color: #334571;
+		border: 1px solid #334571;
+		color: white;
+}
+
+#button_login {
+		background-color: #334571;
+		border: 1px solid #334571;
+		color: white;
+}
+
+#button_login:HOVER {
+		background-color: #3c5184;
+		border: 1px solid #3c5184;
+}
+
+#button_login {
+		background-color: #334571;
+		border: 1px solid #334571;
+		color: white;
+		font-size: 18px;
+}
+
+#account_info {
+		margin: 20px 0 0 80px;
+}
+
+#account_info p {
+		margin: 0 10px;
+		float: left;
+		color: #2d2d2d;
+		font-size: 12px;
+}
+
+#account_info a {
+		color: #2d2d2d;
+		text-decoration: none;
+		font-size: 12px;
+}
+
+.button_box {
+		margin: 20px 0 0 42px;
+		width: 362px;
+		height: 56px;
+		float: left;
+}
+
+.button_box2 {
+		margin: 20px 0 0 42px;
+		width: 362px;
+		height: 56px;
+		float: left;
+}
+
+#button_margin {
+		width: 100%;
+		height: 100%;
+		position: relative;
+}
+
+#button_facebook {
+		border: 1px solid #3b5998;
+		background-color: #3b5998;
+}
+
+#button_facebook:HOVER {
+		border: 1px solid #466ab7;
+		background-color: #466ab7;
+}
+
+#button_facebook a {
+		font-size: 18px;
+		color: white;
+		text-decoration: none;
+}
+
+#fb_img {
+		position: absolute;
+		left: 120px;
+		top: 14px;
+}
+
+#fb_text {
+		position: absolute;
+		left: 150px;
+		top: 19px;
+}
+
+#button_google {
+		border: 1px solid #dddddd;
+		background-color: white;
+}
+
+#button_google:HOVER {
+		border: 1px solid #b0b0b0;
+}
+
+#button_google a {
+		font-size: 18px;
+		color: black;
+		text-decoration: none;
+}
+
+#gg_img {
+		position: absolute;
+		left: 120px;
+		top: 15px;
+}
+
+#gg_text {
+		position: absolute;
+		left: 150px;
+		top: 18px;
+		color: #606060;
+		font-size: 18px;
+}
+
+#btn_gender {
+		margin: 20px 0 15px 160px;
+}
+
+.btn {
+		width: 70px;
+		height: 35px;
+}
+
+.active {
+		
+}
+
+#id_label {
+		position: absolute;
+		margin: 155px 0 0 380px;
+		width: 300px;
+		height: 51px;
+}
+
+#lb1 {
+		text-align: left;
+		color: #1d4f9a;
+		font-weight: bold;
+		font-size: 18px;
+}

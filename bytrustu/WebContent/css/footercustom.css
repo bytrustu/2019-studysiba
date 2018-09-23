@@ -1,0 +1,94 @@
+@CHARSET "UTF-8";
+
+
+/*
+*   푸터 부분
+*/
+
+
+#footer-warp1 {
+        width: 1920px;
+        height: 120px;
+        position: relative;
+}
+
+#footer-content {
+        color: #c4c4c4;
+}
+
+#footer-content:HOVER {
+        color: white;
+}
+
+
+#footer-img {
+        width: 67px;
+        height: 65px;
+        background-image: url("../img/logo-white.png");
+        background-size: cover;
+        position: absolute;
+        left: 160px;
+        top: 0;
+}
+
+#footer-line {
+        width: 13px;
+        height: 97px;
+        background-image: url("../img/footer-line.png");
+        background-size: cover;
+        position: absolute;
+        left: 270px;
+        top: 0;
+}
+
+#footer-text1 {
+        position: absolute;
+        top: 75px;
+        left: 145px;
+}
+
+#footer-text1 p {
+        font-weight: bold;
+        font-size: 15px;
+}
+
+#footer-text2 {
+        position: absolute;
+        top: 25px;
+        left: 350px;
+        text-align: left;
+}
+
+#footer-text2 p {
+        font-weight: bold;
+        font-size: 12px;
+        letter-spacing: 2px;
+        word-spacing: 3px;
+}
+
+#social-icon1 i {
+        position: absolute;
+        top: 15px;
+        right: 260px;
+}
+
+#social-icon2 i {
+        position: absolute;
+        top: 15px;
+        right: 180px;
+}
+
+#social-icon3 i {
+        position: absolute;
+        top: 15px;
+        right: 100px;
+}
+
+.icon-size1 {
+        font-size: 60px;
+        color: #c4c4c4;
+}
+
+.icon-size1:HOVER {
+        color: white;
+}
