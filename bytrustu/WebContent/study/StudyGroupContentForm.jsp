@@ -186,9 +186,12 @@ html, body {
 
 
 
+<<<<<<< .merge_file_a18392
 
 
 
+=======
+>>>>>>> .merge_file_a25568
 <div class="studygroupwarp">
 
 	<div class="position-ab basic-location1">
