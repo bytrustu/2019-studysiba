@@ -189,17 +189,6 @@ html, body {
 
 
 
-
-
-
-
-
-
-
-</style>
-
-
-
 <div class="studygroupwarp">
 
 	<div class="position-ab basic-location1">
@@ -250,7 +239,7 @@ html, body {
 
 
 
-            <!-- 그룹 첨부자료 게시판 -->
+			<!-- 그룹 첨부자료 게시판 -->
 			<div id="contentgroup-notice">
 
 				<div class="position-ab basic-location3">
@@ -269,7 +258,7 @@ html, body {
 								for (int i = 0; i < fileList.size(); i++) {
 				%>
 				<div class="row" style="margin: 10px 0 0 25px; padding: 8px; border: 1px solid #d4d4d4; border-radius: 10px; width: 90%;">
-					<div class="col-3 text-left"><%=fileList.get(i).getgDate().substring(6,11).replace("-", "/")%></div>
+					<div class="col-3 text-left"><%=fileList.get(i).getgDate().substring(6, 11).replace("-", "/")%></div>
 					<div class="col-5 text-left"><%=fileList.get(i).getContent()%></div>
 					<div class="col-4 text-left">
 						<a href='FileDownloadAction.st?fileName=<%=fileList.get(i).getgFile()%>'><%=fileList.get(i).getgFile()%></a>
