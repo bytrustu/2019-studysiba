@@ -4,7 +4,7 @@
 # Study SIBA
   
 <img src="https://i.imgur.com/SX7vpVA.png">  
-<img src="https://i.imgur.com/D1RUXP9.png">  
+<img src="https://i.imgur.com/D1RUXP9.png" style="max-width:72%;">  
     
 personal project : Related website for online study groups  
 image copyright is on the brand "Shiro and Maro(http://shiroandmaro.com/)"
