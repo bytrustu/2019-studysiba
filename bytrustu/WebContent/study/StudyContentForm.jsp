@@ -397,5 +397,5 @@ function accessDeniedMember(){
         });
       };
     </script>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyByjX-fIiEVgNTofLuWWpxgGqQADaoNSWk&libraries=places&callback=initMap" async defer>
+<script src="https://maps.googleapis.com/maps/api/js?key=GOOGLE_API_KEY&libraries=places&callback=initMap" async defer>
     </script>
