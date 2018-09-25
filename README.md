@@ -9,8 +9,7 @@
 personal project : Related website for online study groups  
 image copyright is on the brand "Shiro and Maro(http://shiroandmaro.com/)"
 
-portfolio(pdf) : https://drive.google.com/open?id=1tX-dyw1HCZXdI9KllHwXM6IUt83m2_Eu  
-portfolio(ppt) : https://drive.google.com/open?id=1lDrZcktQDxfaWOB3B-5BgnYeZWIQNvKR  
+portfolio(pdf) : https://drive.google.com/open?id=1hzGVg8SILFrHnMuTGn8kL54riXQ8HCvt  
 demonstration video(youtube) : https://youtu.be/KSDQ77OyM9c  
 
 
